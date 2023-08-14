@@ -1,0 +1,32 @@
+.photopreses{
+    position: relative;
+    top: 150px;
+}
+h2{
+    text-align: center;
+}
+.photopreses a img{
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    position: relative;
+    left: 10%;
+    border-radius: 20px;
+}
+footer{
+    position: absolute;
+    bottom: 100%;
+    width: 100%;
+}
+.photopresev a img{
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    position: relative;
+    left: 10%;
+    border-radius: 20px;
+}
+.boutique{
+    position: relative;
+    top: 150px;
+}

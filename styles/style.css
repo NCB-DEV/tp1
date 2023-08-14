@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 1.0em;
+}
+header{
+    position: fixed;
+    width: 100%;
+    background-color: cornsilk;
+    margin: 0;
+    height: 20%;
+    z-index: 100;
+}
+.img{
+    height: 12%;
+    width: 12%;
+    padding: 1%;
+    position: relative;
+    left: 47%;
+}
+#img{
+    height: 70px;
+    width: 70px;
+    border-radius: 30px;
+}
+nav ul{
+  position: relative;
+  text-align: center;
+  position: relative;
+  bottom: -3em;  
+}
+nav ul li a:hover{
+    color: red;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    margin: 2%;
+    font-size: 1.3em;
+    color: black;
+}
+.presentations{
+    position: relative;
+    bottom: -8.2em;
+    width: 95.2%;
+    padding: 2%;
+}
+.photo img{
+    width: 30%;
+}
+.apropos{
+    position: relative;
+    left: 35%;
+    width: 60%;
+    top: -28em;
+    text-align:center;
+    font-size: 1.2em;
+}
+li{
+    list-style: none;
+}
+.unikin{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.bout{
+    width: 30%;
+    background-color: yellowgreen;
+    border-radius: 15px;
+    position: relative;
+    left: 40%;
+    height: 35px;
+    top: 15px;
+}
+.photoprese{
+    position: relative;
+    bottom: 350px;
+}
+.photoprese a img{
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    position: relative;
+    left: 10%;
+    border-radius: 20px;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    color: yellow;
+    position: relative;
+    bottom: auto;
+}
+body{
+    background-color: rgb(250, 246, 246);
+}
+.photopreses{
+    position: relative;
+    top: 100px;
+}
+.contact{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    font-size: 1.4em;
+}
+input{
+    width: 500px;
+}
+.envoi{
+    background-color: green;
+}
